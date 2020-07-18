@@ -1,4 +1,4 @@
-An spring boot application to manage a Book Store. It inlcude the APIs required in the process of managing the Book Store.
+A Spring boot application to manage a Book Store. It inlcude the APIs required in the process of managing the Book Store.
 
 Steps to run :
 
